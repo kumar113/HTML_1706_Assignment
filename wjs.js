@@ -4,6 +4,6 @@ function reviewForm() {
     if(fname == ""){
         alert("*Name field is required*");
         document.getElementById("take_input").value="";
-        window.location.href="main.html";
+        window.location.href="index.html";
     } 
 }
